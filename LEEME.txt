@@ -4,3 +4,5 @@ ARZOBISPADO - CONTROL DE AVANCE
 3. El almacenamiento es local por dispositivo. Usa Descargar respaldo y Restaurar respaldo para trasladar datos. El respaldo reemplaza, no combina, registros.
 4. Si solo abres index.html como archivo local, podrás usarlo localmente, pero no se instalará como PWA ni tendrá caché de servicio.
 5. No borres los datos del navegador sin exportar antes un respaldo.
+
+ACTUALIZACION: incluye 238 departamentos reales de pisos 1 a 12. Si ya existen datos guardados, agrega solamente departamentos faltantes y conserva estados. Antes de actualizar, descarga un respaldo JSON.
