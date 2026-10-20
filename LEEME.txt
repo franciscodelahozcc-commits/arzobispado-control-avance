@@ -1,0 +1,6 @@
+ARZOBISPADO - CONTROL DE AVANCE
+1. Para probar en computador, abre index.html con Chrome o Edge.
+2. Para instalar en Android y usar sin Internet, los archivos deben publicarse en un sitio HTTPS (por ejemplo GitHub Pages). Después abre la URL en Chrome con Internet y usa el menú > Agregar a pantalla principal / Instalar aplicación. Abre una vez antes de desconectarte.
+3. El almacenamiento es local por dispositivo. Usa Descargar respaldo y Restaurar respaldo para trasladar datos. El respaldo reemplaza, no combina, registros.
+4. Si solo abres index.html como archivo local, podrás usarlo localmente, pero no se instalará como PWA ni tendrá caché de servicio.
+5. No borres los datos del navegador sin exportar antes un respaldo.
