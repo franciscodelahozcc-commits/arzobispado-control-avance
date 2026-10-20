@@ -6,3 +6,6 @@ ARZOBISPADO - CONTROL DE AVANCE
 5. No borres los datos del navegador sin exportar antes un respaldo.
 
 ACTUALIZACION: incluye 238 departamentos reales de pisos 1 a 12. Si ya existen datos guardados, agrega solamente departamentos faltantes y conserva estados. Antes de actualizar, descarga un respaldo JSON.
+
+NUEVO: Resumen general por partida y matriz de porcentajes por piso. Los valores se actualizan con cada registro.
+Para actualizar GitHub, sube index.html y sw.js a la raíz del repositorio, reemplazando los anteriores.
